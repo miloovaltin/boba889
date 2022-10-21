@@ -1,0 +1,16 @@
+{
+"name": "boba889",
+"theme": "boba889",
+"version": "5.7.10",
+"description": "boba889 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"boba889",
+"boba889 เครดิตฟรี",
+"boba889 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/boba889",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
